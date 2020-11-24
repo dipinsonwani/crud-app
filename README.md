@@ -1,6 +1,6 @@
-# testapp
+# CRUD app
 
-A new Flutter project.
+A new Flutter project. Create, Read , Update, Delete using Firebase Firestore with Realtime updates.
 
 ## Getting Started
 
